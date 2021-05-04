@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeBook.Api", "RecipeBook.Api\RecipeBook.Api.csproj", "{429A83C8-6ED9-4468-984C-8D7B49A5CDD1}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{05265E7D-13E6-4932-A80C-67B5750A0C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429A83C8-6ED9-4468-984C-8D7B49A5CDD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429A83C8-6ED9-4468-984C-8D7B49A5CDD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429A83C8-6ED9-4468-984C-8D7B49A5CDD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429A83C8-6ED9-4468-984C-8D7B49A5CDD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05265E7D-13E6-4932-A80C-67B5750A0C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05265E7D-13E6-4932-A80C-67B5750A0C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05265E7D-13E6-4932-A80C-67B5750A0C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05265E7D-13E6-4932-A80C-67B5750A0C47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8C0B7F3-F86D-481E-BD7C-71407C58E114}
+	EndGlobalSection
+EndGlobal

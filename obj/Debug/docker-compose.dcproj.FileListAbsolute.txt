@@ -1,0 +1,8 @@
+C:\Users\p128193\source\repos\RecipeBook\bin\Debug\appsettings.Development.json
+C:\Users\p128193\source\repos\RecipeBook\bin\Debug\appsettings.json
+C:\Users\p128193\source\repos\RecipeBook\bin\Debug\RecipeBook.Api.exe
+C:\Users\p128193\source\repos\RecipeBook\bin\Debug\RecipeBook.Api.dll
+C:\Users\p128193\source\repos\RecipeBook\bin\Debug\RecipeBook.Api.pdb
+C:\Users\p128193\source\repos\RecipeBook\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\p128193\source\repos\RecipeBook\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\p128193\source\repos\RecipeBook\obj\Debug\docker-compose.dcproj.CopyComplete
